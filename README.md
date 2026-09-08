@@ -210,6 +210,8 @@ The Power BI report contains two analytical pages.
 
 ### Page 1 — Executive Overview
 
+![Executive Overview](powerbi/executive_overview.png)
+
 The Executive Overview provides a high-level view of:
 
 - Total Revenue
@@ -233,6 +235,8 @@ Interactive slicers allow analysis by:
 - Subscription Status
 
 ### Page 2 — Customer & Subscription Analysis
+
+![Customer & Subscription Analysis](powerbi/customer_subscription_analysis.png)
 
 This page focuses on customer behavior and subscription performance.
 
