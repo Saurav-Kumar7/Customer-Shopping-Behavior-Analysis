@@ -276,43 +276,26 @@ This segmentation helps evaluate differences in revenue contribution and custome
 
 ## Key Business Insights
 
-1. Clothing is the leading revenue category
+### 1. Clothing is the Primary Revenue Driver
+Clothing contributes the largest share of overall revenue, making it the most important category for sales performance and inventory planning. Accessories provide the next strongest revenue contribution, while footwear and outerwear represent smaller but potentially focused growth opportunities.
 
-Clothing generates the highest revenue among the product categories and represents the strongest contributor to overall sales.
+### 2. Customer Retention Drives the Business
+The analysis shows that customers with a strong purchase history contribute the majority of revenue. This indicates that customer retention and repeat purchasing are more significant to revenue generation than relying solely on new customer acquisition.
 
-2. Loyal customers drive the majority of revenue
+### 3. Subscription Adoption Represents a Growth Opportunity
+A relatively small share of customers are subscribed, while the majority remain non-subscribers. Expanding subscription adoption could strengthen customer engagement and create additional opportunities for repeat purchases and long-term retention.
 
-Customers classified as loyal contribute substantially more revenue than new and returning customers.
+### 4. Discounts Do Not Clearly Increase Order Value
+Discounted purchases account for a substantial portion of orders, but the average order value remains slightly lower than for non-discounted purchases. This suggests that discounts should be targeted strategically rather than applied broadly.
 
-This highlights the importance of customer retention and loyalty initiatives.
+### 5. Seasonal Demand Shows a Clear Revenue Pattern
+Fall generates the strongest revenue among the analyzed seasons, indicating an opportunity to align inventory, promotional campaigns, and product availability with seasonal demand patterns.
 
-3. Subscription adoption has room for improvement
+### 6. High Purchase-History Customers Are a Valuable Segment
+A significant group of customers has a substantial history of previous purchases. These customers represent an important retention segment that can be targeted with loyalty benefits, personalized offers, and relevant product recommendations.
 
-The dataset contains a significant proportion of non-subscribers compared with subscribers.
-
-Subscription adoption therefore represents an opportunity for customer retention and engagement strategies.
-
-4. Discounts do not show a higher average order value
-
-Discounted orders have a slightly lower average purchase amount than non-discounted orders in this dataset.
-
-This suggests that discounts should be evaluated carefully rather than being applied broadly.
-
-5. Fall is the strongest revenue season
-
-Fall generates the highest seasonal revenue and also has the strongest average purchase amount among the seasons.
-
-6. Customers aged 56+ represent an important customer group
-
-The 56+ age group contributes the highest overall revenue and has a large number of repeat buyers.
-
-7. Footwear has the strongest average rating
-
-Although Clothing leads revenue, Footwear records the highest average rating among the major categories.
-
-8. High purchase-history customers represent a valuable retention segment
-
-A substantial group of customers has accumulated 40 or more previous purchases, indicating strong historical engagement with the business.
+### 7. Product Performance Is Relatively Concentrated
+A small group of products consistently appears among the highest revenue-generating items. These products can be prioritized for inventory availability, cross-selling, and promotional placement.
 
 
 ## Business Recommendations
